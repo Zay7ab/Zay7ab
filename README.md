@@ -1,6 +1,89 @@
 # 💫 About Me:
-My Profile Introduction<br> * 🔭 I’m currently working on Building interactive AI Chatbots and image generation tools using HTML, CSS, JavaScript, and advanced APIs.<br> * 👯 I’m looking to collaborate on Open-source Natural Language Processing (NLP) projects and Generative AI applications.<br> * 🤝 I’m looking for help with Optimizing real-time API handling and exploring more complex NLP transformer models.<br> * 🌱 I’m currently learning Deepening my knowledge in NLP alongside my studies at Sir Syed University.<br> * 💬 Ask me about Web-based AI assistants, building dynamic UIs with JavaScript, or competitive FPS gaming.<br> * ⚡ Fun fact I can debug a JavaScript API error almost as fast as I can land a headshot in Counter-Strike.<br>Technical Skills Highlight<br> * Web Development: HTML5, CSS3, JavaScript (Real-time chat & dynamic UI integration).<br> * AI & NLP: Natural Language Processing, LLMs (Groq, Hugging Face), and Prompt Engineering.<br> * Machine Learning: Python, YOLOv11, and Exploratory Data Analysis (EDA).
+# 👋 Hi, I'm Muhammad Zayab Ansari
 
+🚀 **Software / AI Engineer**  
+🎓 Final-year Software Engineering student  
+📍 Karachi, Pakistan  
+
+I’m a passionate Software Engineering student with a strong focus on **Artificial Intelligence, Machine Learning, and Data Science**. I enjoy building intelligent systems, solving real-world problems, and continuously improving my technical skills through hands-on projects.
+
+---
+
+## 🧠 About Me
+
+- 💡 Strong problem-solving and logical thinking  
+- 🤖 Hands-on experience in **AI, Machine Learning, and Generative AI**
+- 📊 Interested in **data analysis, visualization, and insights**
+- 🌱 Constantly learning and improving my software development skills
+- 🎯 Actively looking for **industry experience and innovative projects**
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages & Tools**
+- Python  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Streamlit  
+
+**AI / ML**
+- Machine Learning & Deep Learning  
+- Exploratory Data Analysis (EDA)  
+- YOLO (Object Detection)  
+- Generative AI (LLMs, Prompt Engineering)  
+- Hugging Face  
+
+---
+
+## 📌 Projects
+
+### 🧠 Brain Tumor Detection System
+- Real-time brain tumor detection using **YOLO**
+- Medical image analysis
+- Interactive web interface built with **Streamlit**
+
+### 🌦️ Weather Classification System
+- Machine Learning–based weather classification
+- Data preprocessing, feature selection, and model evaluation
+- Improved prediction accuracy using historical data
+
+### 📊 EDA – Superstore Sales Analysis
+- Exploratory Data Analysis on sales data
+- Data visualization and insights extraction
+- Business-focused reporting and interpretation
+
+### 🤖 AI Chat & Image Generation Web App
+- AI assistant supporting **chat & image generation**
+- Integrated **Groq API, Hugging Face, and Pollinations.ai**
+- Real-time interaction, dynamic UI, error handling, and fallback logic
+
+---
+
+## 🎓 Education
+
+**Software Engineering**  
+Sir Syed University (2022 – Present)
+
+**Artificial Intelligence Program**  
+SMIT (2025 – Present)
+
+---
+
+## 📜 Certifications
+
+- Python Essentials 1 – Cisco Networking Academy  
+- Python Essentials 2 – Cisco Networking Academy  
+
+---
+
+## 🏆 Awards
+
+- 🥈 Semester Project Recognition (2nd Position)
+
+---
+
+## 📫 Contact Me
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Muhammad Zayab Ansari) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zay7ab) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad Zayab Ansari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zayabansari@outlook.com) 

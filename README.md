@@ -66,7 +66,7 @@ I’m a passionate Software Engineering student with a strong focus on **Artific
 Sir Syed University (2021 – 2025)
 
 **Artificial Intelligence Program**  
-SMIT (2025 – Present)
+SMIT (2025 – 2026)
 
 ---
 

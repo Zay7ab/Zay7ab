@@ -63,7 +63,7 @@ I’m a passionate Software Engineering student with a strong focus on **Artific
 ## 🎓 Education
 
 **Software Engineering**  
-Sir Syed University (2022 – Present)
+Sir Syed University (2021 – 2025)
 
 **Artificial Intelligence Program**  
 SMIT (2025 – Present)

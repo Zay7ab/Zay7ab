@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Muhammad Zayab Ansari
 
 🚀 **Software / AI Engineer**  
-🎓 Final-year Software Engineering student  
+🎓 Software Engineering 
 📍 Karachi, Pakistan  
 
 I’m a passionate Software Engineering student with a strong focus on **Artificial Intelligence, Machine Learning, and Data Science**. I enjoy building intelligent systems, solving real-world problems, and continuously improving my technical skills through hands-on projects.

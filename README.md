@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 - 🎓 **B.E. Software Engineering** @ SSUET, Karachi (2022-2026)
-- 💼 **Freelance AI/ML Engineer** on Fiverr (5★ Rating)
+- 💼 **Freelance AI/ML Engineer** on Fiverr
 - 🧠 Specialized in **RAG Pipelines, LLMs, Computer Vision**
 - ⚡ **10+ Production AI Projects** Deployed
 - 🌍 Karachi, Pakistan

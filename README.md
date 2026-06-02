@@ -1,108 +1,93 @@
-# 💫 About Me:
 # 👋 Hi, I'm Muhammad Zayab Ansari
 
-🚀 **Software / AI Engineer**  
-🎓 Software Engineering 
-📍 Karachi, Pakistan  
+### 🤖 AI/ML Engineer | RAG Specialist | Computer Vision Developer
 
-I’m a passionate Software Engineering student with a strong focus on **Artificial Intelligence, Machine Learning, and Data Science**. I enjoy building intelligent systems, solving real-world problems, and continuously improving my technical skills through hands-on projects.
-
----
-
-## 🧠 About Me
-
-- 💡 Strong problem-solving and logical thinking  
-- 🤖 Hands-on experience in **AI, Machine Learning, and Generative AI**
-- 📊 Interested in **data analysis, visualization, and insights**
-- 🌱 Constantly learning and improving my software development skills
-- 🎯 Actively looking for **industry experience and innovative projects**
+<p align="left">
+  <a href="https://zay7ab.github.io/zayab-portfolio"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome"></a>
+  <a href="https://www.linkedin.com/in/muhammad-zayab-ansari-33947a121/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:zayabansari@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
-
-**Languages & Tools**
-- Python  
-- Pandas, NumPy  
-- Matplotlib, Seaborn  
-- Streamlit  
-
-**AI / ML**
-- Machine Learning & Deep Learning  
-- Exploratory Data Analysis (EDA)  
-- YOLO (Object Detection)  
-- Generative AI (LLMs, Prompt Engineering)  
-- Hugging Face  
+## 🚀 About Me
+- 🎓 **B.E. Software Engineering** @ SSUET, Karachi (2022-2026)
+- 💼 **Freelance AI/ML Engineer** on Fiverr (5★ Rating)
+- 🧠 Specialized in **RAG Pipelines, LLMs, Computer Vision**
+- ⚡ **10+ Production AI Projects** Deployed
+- 🌍 Karachi, Pakistan
+- 🔗 **Portfolio:** [zay7ab.github.io/zayab-portfolio](https://zay7ab.github.io/zayab-portfolio)
 
 ---
 
-## 📌 Projects
+## 🛠️ Tech Stack
 
-### 🧠 Brain Tumor Detection System
-- Real-time brain tumor detection using **YOLO**
-- Medical image analysis
-- Interactive web interface built with **Streamlit**
+### AI / Machine Learning
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-Advanced-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-### 🌦️ Weather Classification System
-- Machine Learning–based weather classification
-- Data preprocessing, feature selection, and model evaluation
-- Improved prediction accuracy using historical data
+### Generative AI & LLMs
+![LangChain](https://img.shields.io/badge/LangChain-Advanced-121212?style=flat&logo=chainlink&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA_3-Advanced-0467DF?style=flat&logo=meta&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-Expert-00ADD8?style=flat)
 
-### 📊 EDA – Superstore Sales Analysis
-- Exploratory Data Analysis on sales data
-- Data visualization and insights extraction
-- Business-focused reporting and interpretation
+### Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-Advanced-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv11-Advanced-00FFFF?style=flat)
+![CNN](https://img.shields.io/badge/CNN-Advanced-FF6F00?style=flat)
 
-### 🤖 AI Chat & Image Generation Web App
-- AI assistant supporting **chat & image generation**
-- Integrated **Groq API, Hugging Face, and Pollinations.ai**
-- Real-time interaction, dynamic UI, error handling, and fallback logic
-
----
-
-## 🎓 Education
-
-**Software Engineering**  
-Sir Syed University (2021 – 2025)
-
-**Artificial Intelligence Program**  
-SMIT (2025 – 2026)
+### Backend & DevOps
+![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
-## 📜 Certifications
+## 🔥 Featured Projects
 
-- Python Essentials 1 – Cisco Networking Academy  
-- Python Essentials 2 – Cisco Networking Academy  
-
----
-
-## 🏆 Awards
-
-- 🥈 Semester Project Recognition (2nd Position)
-
----
-
-## 📫 Contact Me
-📧 Email: zayabansari@outlook.com
-Phone No:+923333450915
+| Project | Description | Tech |
+|---------|-------------|------|
+| [🤖 AI Digital Ghost](https://github.com/Zay7ab/AIDigitalGhost) | Personality preservation with voice cloning | LLaMA 3, Whisper, Coqui TTS |
+| [⚖️ Pakistan LegalAI](https://github.com/Zay7ab/LegalAI) | RAG platform for 12+ Pakistani laws | LLaMA 3-70B, LangChain, FAISS |
+| [🏥 ClinIQ](https://github.com/Zay7ab/ClinIQ) | Multi-modal clinical diagnosis system | CNN, Random Forest, FastAPI |
+| [🧠 Brain Tumor Detection](https://github.com/Zay7ab/BrainTumorDetection) | YOLOv11 MRI analysis (93.5% mAP) | YOLOv11, PyTorch, Streamlit |
+| [🚗 License Plate Detection](https://github.com/Zay7ab/LicensePlateDetection) | Real-time plate detection | YOLOv11, OpenCV, Gradio |
+| [✈️ Flight Delay Prediction](https://github.com/Zay7ab/FlightDelay) | 89% precision ML pipeline | XGBoost, SMOTE |
 
 ---
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zay7ab) 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://www.linkedin.com/in/muhammad-zayab-ansari-33947a121/))](https://linkedin.com/in/Muhammad-Zayab-Ansari) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zayabansari@outlook.com) 
+## 📊 GitHub Stats
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zay7ab&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=zay7ab&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zay7ab&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zay7ab&show_icons=true&theme=dark&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zay7ab&theme=dark&hide_border=true" width="48%">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zay7ab&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 Skills Progress
+
+AI/ML ████████████████████░ 93%
+RAG & LLMs ██████████████████░░░ 88%
+Computer Vision ███████████████████░░ 92%
+Backend APIs █████████████████░░░░ 85%
+Docker/DevOps ████████████████░░░░░ 80%
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:zayabansari@outlook.com"><img src="https://img.shields.io/badge/Email-zayabansari@outlook.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://wa.me/923333450915"><img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp"></a>
+  <a href="https://www.linkedin.com/in/muhammad-zayab-ansari-33947a121/"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin"></a>
+</p>
+
+---
+
+### ⭐️ "Building AI that actually ships and solves real problems."
+
+---
+*Last Updated: June 2026*
